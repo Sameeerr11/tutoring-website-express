@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "627c0eadf5b8fd7529b04f12"
+  },
+  "firstname": "John",
+  "lastname": "Smith",
+  "username": "john_smith",
+  "password": "john1",
+  "favoriteTutors": [
+    "627633a5e14033d425894b63"
+  ],
+  "hoursCompleted": 0
+},{
+  "_id": {
+    "$oid": "627c139f534e2117ac7681b9"
+  },
+  "firstname": "Sally",
+  "lastname": "Johnson",
+  "username": "sally_johnson",
+  "password": "sally1",
+  "favoriteTutors": [
+    "62763502e14033d425894b68"
+  ],
+  "hoursCompleted": "0"
+}]

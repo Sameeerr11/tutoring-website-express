@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "6261018a3ef8a59ac7595956"
+  },
+  "tutor_id": "1",
+  "tutor_name": "Eleanor Bash",
+  "student_id": "100",
+  "student_name": "John Smith",
+  "date": "5/1/2022",
+  "time": "3:30pm",
+  "course_name": "English",
+  "course_id": "1301"
+},{
+  "_id": {
+    "$oid": "6261018a3ef8a59ac7595957"
+  },
+  "tutor_id": "2",
+  "tutor_name": "Mark Henry",
+  "student_id": "105",
+  "student_name": "Bob Joe",
+  "date": "5/3/2022",
+  "time": "4:45pm",
+  "course_name": "Computer Science",
+  "course_id": "2300"
+},{
+  "_id": {
+    "$oid": "6261018a3ef8a59ac7595958"
+  },
+  "tutor_id": "3",
+  "tutor_name": "David Potter",
+  "student_id": "110",
+  "student_name": "Sue Smith",
+  "date": "5/4/2022",
+  "time": "2:00pm",
+  "course_name": "Chemistry",
+  "course_id": "3330"
+},{
+  "_id": {
+    "$oid": "62619cbf4c7c3e319bae13f1"
+  },
+  "tutor_id": "4",
+  "tutor_name": "Josh Cambri",
+  "student_id": "120",
+  "student_name": "Jack Johnson",
+  "date": "5/6/2022",
+  "time": "1:20pm",
+  "course_name": "Biology",
+  "course_id": "1370"
+},{
+  "_id": {
+    "$oid": "6278aa86140b6a44884b6f92"
+  },
+  "tutor_id": null,
+  "tutor_name": "Eleanor Bash",
+  "student_id": null,
+  "student_name": "John Smith Jr.",
+  "date": "2022-05-10",
+  "time": "15:00",
+  "course_name": null,
+  "course_id": null
+},{
+  "_id": {
+    "$oid": "6278aca9140b6a44884b6f93"
+  },
+  "tutor_id": null,
+  "tutor_name": "Eleanor Bash",
+  "student_id": null,
+  "student_name": "Billy Bob",
+  "date": "2022-05-25",
+  "time": "13:00",
+  "course_name": "Chemistry",
+  "course_id": null
+},{
+  "_id": {
+    "$oid": "6278ad95140b6a44884b6f94"
+  },
+  "tutor_id": "627633a5e14033d425894b63",
+  "tutor_name": "Eleanor Bash",
+  "student_id": null,
+  "student_name": "Jessica Smith",
+  "date": "2022-06-04",
+  "time": "15:00",
+  "course_name": "Math",
+  "course_id": null
+},{
+  "_id": {
+    "$oid": "6278af37140b6a44884b6f95"
+  },
+  "tutor_id": "62763502e14033d425894b68",
+  "tutor_name": "Mark Henry",
+  "student_id": null,
+  "student_name": "Joe Bob",
+  "date": "2022-05-19",
+  "time": "16:00",
+  "course_name": "Computer Science",
+  "course_id": null
+},{
+  "_id": {
+    "$oid": "6278b09b140b6a44884b6f96"
+  },
+  "tutor_id": "627633a5e14033d425894b63",
+  "tutor_name": "Eleanor Bash",
+  "student_id": null,
+  "student_name": "Jessica Smith",
+  "date": "2022-05-17",
+  "time": "13:13",
+  "course_name": "Course",
+  "course_id": null
+}]
