@@ -31,8 +31,7 @@ router.post('/', function(req, res) {
     student_name: req.body.student_name,
     date: req.body.date,
     time: req.body.time,
-    course_name: req.body.course_name,
-    course_id: req.body.course_id
+    course_name: req.body.course_name
 
   }, function(err, appt){
     if (err) throw err;
@@ -50,8 +49,7 @@ router.put('/:id', function(req, res){
           student_name: req.body.student_name,
           date: req.body.date,
           time: req.body.time,
-          course_name: req.body.course_name,
-          course_id: req.body.course_id
+          course_name: req.body.course_name
       }
   }, function(err, appt){
       if(err) throw err;

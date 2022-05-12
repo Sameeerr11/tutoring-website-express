@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "627633a5e14033d425894b63"
+  },
+  "aboutMe": "Hi, my name is Eleanor! I have been living in Vietnam for a few years and also teaching English as well. I have many hobbies and interests so w..",
+  "averageRating": "4.5",
+  "coursesTaught": [
+    "Chemistry",
+    "English",
+    "Math"
+  ],
+  "firstname": "Eleanor",
+  "hoursCompleted": "200",
+  "image": "/images/tutors/EleanorBash.jpg",
+  "languagesSpoken": [
+    "English",
+    "French",
+    "Vietnamese"
+  ],
+  "lastname": "Bash",
+  "password": "pass1",
+  "username": "eleanor_bash",
+  "workingHours": [
+    "Monday 3pm-5pm",
+    "Tuesday 1pm-3pm",
+    "Friday 11am-1pm"
+  ]
+},{
+  "_id": {
+    "$oid": "62763502e14033d425894b68"
+  },
+  "aboutMe": "TI am a patient teacher because I understand how difficult it can be to learn a second language. I adapt my classes to suit the students.",
+  "averageRating": "4.2",
+  "coursesTaught": [
+    "English",
+    "Biology",
+    "Computer Science"
+  ],
+  "firstname": "Mark",
+  "hoursCompleted": "200",
+  "image": "/images/tutors/MarkHenry.jpg",
+  "languagesSpoken": [
+    "English",
+    "Spanish"
+  ],
+  "lastname": "Henry",
+  "password": "pass2",
+  "username": "mark_henry",
+  "workingHours": [
+    "Tuesday 4pm-6pm",
+    "Thursday 1pm-3pm",
+    "Friday 11am-4pm"
+  ]
+},{
+  "_id": {
+    "$oid": "6276357fe14033d425894b69"
+  },
+  "aboutMe": "I am here to assist you to practice your business English or to have a nice general casual conversation.",
+  "averageRating": "4.9",
+  "coursesTaught": [
+    "Physics",
+    "English",
+    "Computer Science"
+  ],
+  "firstname": "Josh",
+  "hoursCompleted": "200",
+  "image": "/images/tutors/JoshCambri.jpg",
+  "languagesSpoken": [
+    "English",
+    "German"
+  ],
+  "lastname": "Cambri",
+  "password": "pass3",
+  "username": "josh_cambri",
+  "workingHours": [
+    "Monday 2pm-5pm",
+    "Tuesday 5pm-7pm",
+    "Wednesday 10am-1pm"
+  ]
+},{
+  "_id": {
+    "$oid": "62763610e14033d425894b6a"
+  },
+  "aboutMe": "If you are willing to learn, I am more than happy to be a part of your journey to learn English! :) I can help you with your spoken English...",
+  "averageRating": "4.6",
+  "coursesTaught": [
+    "English",
+    "Math",
+    "Spanish"
+  ],
+  "firstname": "Macy",
+  "hoursCompleted": "200",
+  "image": "/images/tutors/MacyStewart.jpg",
+  "languagesSpoken": [
+    "English",
+    "Spanish"
+  ],
+  "lastname": "Stewart",
+  "password": "pass4",
+  "username": "macy_stewart",
+  "workingHours": [
+    "Monday 11am-5pm",
+    "Tuesday 3pm-5pm",
+    "Wednesday 9am-11am"
+  ]
+},{
+  "_id": {
+    "$oid": "62763685e14033d425894b6b"
+  },
+  "aboutMe": "I have been around the world so can pass on my experience of English speaking and make lessons enjoyable. Learning English should be fun",
+  "averageRating": "4.7",
+  "coursesTaught": [
+    "English",
+    "French",
+    "Math"
+  ],
+  "firstname": "David",
+  "hoursCompleted": "200",
+  "image": "/images/tutors/DavidPotter.jpg",
+  "languagesSpoken": [
+    "English",
+    "French"
+  ],
+  "lastname": "Potter",
+  "password": "pass5",
+  "username": "david_potter",
+  "workingHours": [
+    "Monday 1pm-4pm",
+    "Wednesday 2pm-4pm",
+    "Friday 10am-1pm"
+  ]
+}]
