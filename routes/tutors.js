@@ -25,7 +25,7 @@ router.post('/', function(req, res){
     collection.insert({
         firstname: req.body.firstname,
         lastname: req.body.lastname,
-        username: req.body.username,
+        email: req.body.email,
         password: req.body.password,
         aboutMe: req.body.aboutMe,
         image: req.body.image,
@@ -46,7 +46,7 @@ router.put('/:id', function(req, res){
         _id: req.params.id }, { $set:{
           firstname: req.body.firstname,
           lastname: req.body.lastname,
-          username: req.body.username,
+          email: req.body.email,
           password: req.body.password,
           aboutMe: req.body.aboutMe,
           image: req.body.image,
