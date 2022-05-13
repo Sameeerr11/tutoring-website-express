@@ -10,7 +10,7 @@ const verifyToken = (req, res, next) => {
     else{
 
         try{
-            var decoded = jwt.verify(token, 'secretkey')
+            var decoded = jwt.verify(token, 'secret123')
             console.log(decoded);
             return next();
         }

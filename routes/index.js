@@ -74,7 +74,7 @@ router.post('/loginstudent', async (req, res) => {
 
 
 router.post('/registertutor', async (req, res) => {
-	console.log(req.body)
+
 	try {
 		const newPassword = await bcrypt.hash(req.body.password, 10)
 		await Tutor.create({
